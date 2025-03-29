@@ -1,6 +1,4 @@
-Here’s a **detailed and well-structured README.md** for your **AI-powered Sign Language Translator** project. This README follows best practices and includes an **overview, features, installation steps, dataset details, model training process, and usage instructions**.  
 
----
 
 # **Sign Language Translator Using AI 🤟🔠**
 An AI-powered application that translates American Sign Language (ASL) into text using **deep learning and computer vision**. This project utilizes a **CNN model** trained on an ASL dataset to recognize hand gestures and display corresponding letters or digits in real-time.
