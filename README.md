@@ -196,13 +196,7 @@ Contributions are welcome!
 ## 📜 **License**
 This project is open-source under the **MIT License**.
 
----
 
-## **📧 Contact**
-For any queries or suggestions, feel free to reach out!  
-
-📧 **Email**: your-email@example.com  
-🔗 **GitHub**: [Your GitHub](https://github.com/your-username)  
 
 ---
 
