@@ -205,6 +205,4 @@ This project is open-source under the **MIT License**.
 python app.py
 ```
 
----
 
-This README is **clear, professional, and structured** for **GitHub** or **Kaggle**. Let me know if you need modifications! 🚀
